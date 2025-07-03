@@ -175,5 +175,6 @@ If the frontend cannot connect to the backend:
 ![txt2ppt1](https://github.com/user-attachments/assets/f3e3a836-21ee-416c-b894-f7542bbb9cea)
 ![text2ppt2](https://github.com/user-attachments/assets/d806523d-be06-4895-b87a-345d478d55f1)
 ![text2ppt3](https://github.com/user-attachments/assets/a8ae8884-f1ca-4d99-9e1c-e3ecfebed4cb)
+![image](https://github.com/user-attachments/assets/a42243a8-d051-4ca8-935b-a35b016b8e6c)
 ![image](https://github.com/user-attachments/assets/49878158-4f40-4670-b859-cbc7cdac2261)
 
