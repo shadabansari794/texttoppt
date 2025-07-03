@@ -147,3 +147,26 @@ Downloads a properly formatted PowerPoint (.pptx) file with consistent styling.
 - Toast notifications for user feedback
 - Responsive design for various screen sizes
 
+## Troubleshooting
+
+### Common TypeScript Errors
+
+If you encounter TypeScript errors like:
+
+- Cannot find module 'react' or its corresponding type declarations
+- Cannot find module 'lucide-react' or its corresponding type declarations
+- This JSX tag requires the module path 'react/jsx-runtime' to exist
+
+Run the following command in the frontend directory:
+
+```
+npm install --save-dev @types/react @types/node typescript
+```
+
+### Backend Connection Issues
+
+If the frontend cannot connect to the backend:
+
+1. Ensure the backend is running on http://localhost:8000
+2. Check for CORS issues in the browser console
+3. Verify that the API URL in `frontend/src/lib/api.ts` is correct
